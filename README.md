@@ -1,4 +1,4 @@
-# Open Computer Science Resources
+# Open Computer Science Textbooks
 A collection of open access and copyleft computer science textbooks and courses. Select redistributable books are included in this repository.
 
 ## Terms
