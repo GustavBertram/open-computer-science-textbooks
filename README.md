@@ -36,7 +36,7 @@ A collection of open access and copyleft computer science textbooks and courses.
 
 
 ## Competitive Programming
-* 📖 [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book/index.php) (Open Access)
+* 📖 [Competitive Programmer's Handbook by Antti Laaksonen](https://github.com/pllk/cphb/) (Creative Commons attribution, noncommercial, sharealike 4.0)
 * 📖 [Principles of Algorithmic Problem Solving by Johan Sannemo](https://www.csc.kth.se/~jsannemo/slask/main.pdf) (Open Access)
   * Uses C++
 
