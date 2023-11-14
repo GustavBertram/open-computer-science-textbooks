@@ -2,6 +2,7 @@
 A collection of open access and copyleft computer science textbooks and courses. Select redistributable books are included in this repository.
 
 ## Terms
+* Redistributable generally means that you can copy, and give away copies of a work freely.
 * [Open Access](https://en.wikipedia.org/wiki/Open_access) usually means that some copyrighed work may be freely accessed. Not all open access works may be redistributed.
 * [Copyleft](https://en.wikipedia.org/wiki/Copyleft) usually means that some copyrighted work may be accessed and redistributed. Licences are modular and may grant additional rights.
 * **Karmaware** generally allows use in exchange for paying it forward in some specified way.
